@@ -1,0 +1,88 @@
+.youtube-logo
+{
+    height:20px;
+}
+.header{
+    display:flex;
+    justify-content: space-around;
+}
+
+.image{
+    height:200px;
+    width:300px;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+.icon{
+    height:20px;
+    border-radius: 50%;
+    
+    margin-left: 100px;
+    
+    
+}
+.inp{
+    width: 600px;
+    height:20px;
+    margin-left: 150px;
+    padding:5px;
+    border:1px black solid;
+}
+.search{
+    margin-left: -80px;
+    padding:3px;
+    margin-top: 1px;
+    
+    background-color: aliceblue;
+}
+.voice{
+    margin-left: -0px;
+    padding: 5px;
+}
+.videoupload{
+    padding:5px;
+}
+.apps{
+    padding:5px;
+}
+.bell{
+    padding:5px;
+}
+.profile{
+    height:20px;
+    padding:5px;
+    border-radius: 50%;
+}
+#NAV1{
+    display:flex;
+    margin-left: 100px;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    
+}
+#span1{
+    text-decoration: none;
+}
+ .videotitle{
+    text-decoration: none;
+    display:inline;
+    
+    
+
+}
+p{
+    margin-left: 60x;
+    display:inline;
+    color: black;
+}
+.metadata{
+    margin-left:120px;
+
+}
+
+
+
+
+  
+
